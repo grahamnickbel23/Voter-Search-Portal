@@ -8,7 +8,7 @@ A full-stack system to **extract, structure, and search voter data** efficiently
 
 This project solves a real-world problem:
 
-> Voter data is released as **scanned PDFs (unstructured, noisy)**
+> Voter data is released as **scanned PDFs (unstructured, noisy)**. 
 > After SIR voter list changed and people want to know about their own information and their neighbour information fast.
 
 So me and my frined build and developed a searchable voter information platform that helps users quickly verify their voter details after **SIR 2026** updates for our local booth.
