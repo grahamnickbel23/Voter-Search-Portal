@@ -135,6 +135,6 @@ That’s makes search feels **fast and flexible**, even with messy real-world da
 
 ## Conclusion
 
-We deployed this project at our local internet caffe and it really become popualr. About 150+ people came and searched infomation via our portal.
+We deployed this project at our local internet caffe and it really become popular. About 150+ people came and searched infomation via our portal just before election.
 
 ---
