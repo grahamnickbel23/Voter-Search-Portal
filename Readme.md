@@ -54,7 +54,7 @@ Below Screenshot of our system wokring on our local machine.
 
 ## Dataset Details
 
-  - 25,000+ voter records indexed
+  - 1,50,000+ voter records indexed
   - Structured by:
   - District
   - Assembly Constituency
