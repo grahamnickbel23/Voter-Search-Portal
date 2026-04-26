@@ -135,10 +135,6 @@ That’s makes search feels **fast and flexible**, even with messy real-world da
 
 ## Conclusion
 
-It combines:
-- Machine Learning (OCR)
-- Data Engineering
-- Search Systems
-- Frontend Development
+We deployed this project at our local internet caffe and it really become popualr. About 150+ people came and searched infomation via our portal.
 
 ---
