@@ -135,6 +135,10 @@ That’s makes search feels **fast and flexible**, even with messy real-world da
 
 ## Conclusion
 
+<<<<<<< HEAD
 This project demonstrates how unstructured, scanned voter lists can be transformed into a fast, searchable information system using OCR, data processing, and Elasticsearch. By indexing over 1.5 lakh voter records, we enabled instant voter verification after the SIR 2026 update. The system was successfully deployed at a local internet café, where it helped 150+ citizens quickly access and verify their voter information before the election, proving its practical value in real-world public service.
+=======
+We deployed this project at our local internet caffe and it really become popular. About 150+ people came and searched infomation via our portal just before election.
+>>>>>>> 480b71bb81b772b72d1b78c2b8f38fa2ea9155e5
 
 ---
